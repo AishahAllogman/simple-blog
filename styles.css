@@ -1,0 +1,144 @@
+body {
+  font-family: Arial;
+  padding: 40px;
+  background: #f1f1f1;
+}
+.header {
+  padding: 40px;
+  font-size: 40px;
+  text-align: center;
+  background: thistle;
+  height: 70%;
+  background-image: url("img/header.jpg");
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.rightside {
+  margin-top: 40px;
+  margin-right: 18px;
+  float: right;
+  width: 25%;
+
+  padding: 0;
+}
+.leftside {
+  margin-top: 40px;
+  margin-left: 10px;
+  float: left;
+  width: 70%;
+
+  padding: 0;
+}
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+#footer {
+  margin-top: 20px;
+  padding: 20px;
+  width: 100%;
+  background-color: #222222;
+  color: white;
+}
+.col-1 {
+  width: 66%;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.col-2 {
+  width: 33%;
+  display: inline-block;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.card {
+  background: white;
+  padding: 0px;
+  margin: 0;
+
+  border: 1px solid gainsboro;
+  margin-bottom: 30px;
+}
+.img-top {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  max-width: 70%;
+  width: 650;
+  height: 350;
+}
+.pragraph {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+}
+.SERVICES {
+  color: gray;
+}
+.img-service {
+  margin-left: 40%;
+  margin-right: 40%;
+  color: gray;
+  size: 40px;
+}
+.OUR-SERVICES {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  margin-left: 30px;
+  margin-right: 30px;
+
+  color: gray;
+}
+#s {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.link {
+  font-size: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+#about {
+  margin-left: 45%;
+}
+.leftside2 {
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-right: 10px;
+
+  width: 98%;
+
+  padding: 0;
+}
+#best {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.best1 {
+  color: red;
+  margin: auto;
+  width: 30%;
+  padding: 10px;
+}
+.list {
+  color: green;
+}
+#artical {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
